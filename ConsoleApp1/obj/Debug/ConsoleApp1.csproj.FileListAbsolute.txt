@@ -5,3 +5,10 @@ C:\Users\Kab-31-16\Documents\GitHub\test\ConsoleApp1\obj\Debug\ConsoleApp1.cspro
 C:\Users\Kab-31-16\Documents\GitHub\test\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
 C:\Users\Kab-31-16\Documents\GitHub\test\ConsoleApp1\obj\Debug\ConsoleApp1.exe
 C:\Users\Kab-31-16\Documents\GitHub\test\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\mornd\OneDrive\Документы\GitHub\Project_1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\mornd\OneDrive\Документы\GitHub\Project_1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\mornd\OneDrive\Документы\GitHub\Project_1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\mornd\OneDrive\Документы\GitHub\Project_1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\mornd\OneDrive\Документы\GitHub\Project_1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\mornd\OneDrive\Документы\GitHub\Project_1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\mornd\OneDrive\Документы\GitHub\Project_1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
